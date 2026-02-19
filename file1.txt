@@ -1,2 +1,3 @@
 This is my first Git practice.
 I am learning add and commit.
+These are the changes i am making in file1.txt
